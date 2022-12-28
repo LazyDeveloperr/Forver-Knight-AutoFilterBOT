@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/LazyDeveloperr/LazyPrincess/blob/master/assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
+  <img src="" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> ForeverKnight AutoFilterBOT </b>
 </h1>
 
 ## ⚡️Features
